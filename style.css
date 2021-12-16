@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-image: url("https://media.istockphoto.com/vectors/sprinkles-seamless-pattern-vector-id1143155816?k=20&m=1143155816&s=612x612&w=0&h=zb8y2zh0KxRoKBJawOQ3LkZusnBnR_F1galXtQERJ_U=");
+}
+h1{
+    color: black;
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bolder;
+    font-variant: small-caps;
+}
