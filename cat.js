@@ -3,7 +3,7 @@ animal =  [ ];
 
 
 function preload(){
-    ogat=loadImage("backpack.jpg");
+    ogat=loadImage("cat.jpg");
 }
 
 function setup(){
@@ -28,8 +28,8 @@ function getresult(error,results){
 
 function draw(){
     image(ogat,0,0,400,400);
-
-     for(i=0;i<animal.length;i++){
+    
+    for(i=0;i<animal.length;i++){
 
         fill("black");
         stroke("black");
@@ -44,6 +44,7 @@ function draw(){
         document.getElementById("sta").innerHTML= statu;
 
     }
+
 }
 
 //order for giving a shape it's things === "( x , y , width, height )"//

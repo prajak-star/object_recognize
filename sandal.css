@@ -1,0 +1,18 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1433888104365-77d8043c9615?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTd8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80");
+    background-size: cover;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+#bac{
+  margin-right: 1300px;
+  margin-top: -40px;
+}
+#status
+{
+font-size: 18px;
+}

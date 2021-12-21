@@ -1,0 +1,18 @@
+body{
+    background-image: url("https://wallpapercave.com/wp/E6yB0E6.jpg");
+    background-size: cover;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+#bac{
+  margin-right: 1300px;
+  margin-top: -40px;
+}
+#status
+{
+font-size: 18px;
+}
